@@ -1,0 +1,2 @@
+input: MHIQITDFGTAKVLSPDS
+gi number: 18202068
